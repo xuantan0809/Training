@@ -420,7 +420,7 @@ a {
     position: relative;
 }
 
-.img-stats {
+.stats .stats-img .img-stats {
     object-fit: cover;
     width: 400px;
     height: 460px;
