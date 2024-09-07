@@ -145,7 +145,7 @@ a {
     font-weight: 450;
 }
 
-.hero-img {
+.hero .hero-img {
     position: absolute;
     right: calc((100% - 1110px) / 2 - 100px);
     bottom: 0;
